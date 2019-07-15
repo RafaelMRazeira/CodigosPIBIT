@@ -18,9 +18,13 @@ INOVAÇÃO TECNOLÓGICA NA GESTÃO MUNICIPAL:
   
   2) instalar as bibliotecas tensorflow, keras, numpy, imutils e opencv
   
-    para isso basta instalar o pip (pacote gerenciador do python) com o seguinte comando no terminal (para acessar o terminal no ubuntu basta apertar ctrl + shift + t).
+    para isso basta instalar o pip (pacote gerenciador do python) com o seguinte comando no terminal
     
-    sudo apt-get install python3-numpy python3-dev python3-pip python3-wheel (instalar numpy + pip + pacote de desenvolvedor do python e suas dependencias)
+    (para acessar o terminal no ubuntu basta apertar ctrl + alt + t).
+    
+    sudo apt-get install python3-numpy python3-dev python3-pip python3-wheel
+    
+    (instalar numpy + pip + pacote de desenvolvedor do python e suas dependencias)
     
      pip3 install keras          (instalar o pacote keras)
      
