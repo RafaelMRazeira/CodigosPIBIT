@@ -1,4 +1,4 @@
-# CodigosPIBIT
+# CódigosPIBIT
 Este repositório contém os códigos da iniciação científica cujo título correspondente é:
 
 INOVAÇÃO TECNOLÓGICA NA GESTÃO MUNICIPAL: 
