@@ -9,7 +9,7 @@ INOVAÇÃO TECNOLÓGICA NA GESTÃO MUNICIPAL:
   2) Tree_modelPErroM193leafsP190012850EPOCHS.h5 é o modelo gerado.
   3) load_model.py é um script em python para testar o modelo.
   
-# Aqui encontram-se 1 pasta:
+# Aqui encontra-se 1 pasta:
 1) test onde se encontra as imagens utilizadas para testar o modelo.
   
 # Para utilizar o script load_model.py:
